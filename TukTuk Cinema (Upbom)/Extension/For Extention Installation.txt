@@ -1,0 +1,4 @@
+https://edge.microsoft.com/extensionwebstorebase/v1/crx?response=redirect&x=id%3D[EXTENSIONID]%26installsource%3Dondemand%26uc
+
+Replace the "[EXTENSIONID]" with the id :)
+
